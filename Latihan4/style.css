@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.kotak {
+    background: #bf0b53;
+    padding: 10px;
+}
+
+.tulisan {
+    color: #ffea00;
+}
